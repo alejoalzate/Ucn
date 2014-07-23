@@ -1,0 +1,9 @@
+* {
+  background: #0033CC !important;
+  color:#FFFF00   !important;
+  border: none !important;
+}
+
+input, textarea, select, option {
+  background: #333 !important;
+}
